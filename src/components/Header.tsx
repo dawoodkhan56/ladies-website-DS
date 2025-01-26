@@ -7,8 +7,8 @@ const Header = () => {
         <Link href="#home" className="text-xl sm:text-2xl md:text-3xl ml-6 font-semibold text-white">
            Ladies E-commerce Store
         </Link>
-        <ul className="flex flex-col sm:flex-row gap-y-4 items-center font-bold text-2xl">
-          <li className="mr-4">
+        <ul className="flex flex-col sm:flex-row gap-y-4 mr-3 items-center font-bold text-2xl">
+          <li className="mr-4 ">
             <Link href="#home" className="text-white hover:text-gray-500" >
                 Home
             </Link>
